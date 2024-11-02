@@ -6,7 +6,7 @@ The notebooks offer hands-on experience with [regression models](https://en.wiki
 
 ## Get Started
 
-You can open the main notebook file [`main.ipynb`](main.ipynb) using your favorite viewer.
+You can open the main notebook file [`main.ipynb`](main.ipynb) or [`main.pdf`](main.pdf) using your favorite viewer.
 
 Please check out the previous results or run the notebook to reproduce the results.
 
